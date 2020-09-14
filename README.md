@@ -1,5 +1,5 @@
 # Machine Learning: Categorize_Flowers
-> Using machine learning with tensorflow to categorize flowers. 
+> Using machine learning with TensorFlow to categorize flowers. 
 
 
 Using a dataset from Google's documentation on Tensorflow. 
