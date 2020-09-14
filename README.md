@@ -17,7 +17,7 @@ Initially used an epoch of 80. Discovered that an epoch of 100 had a more stable
 
 ## Development setup
 
-The single file can be ran on Jupyter Notebook and Colab. 
+The single file can be run on Jupyter Notebook and Colab. 
 
 ```sh
 Categorize_Flowers.ipynb
